@@ -1,9 +1,9 @@
 
-# Müzik Bot 🇹🇷
+#Müzik Bot 🇹🇷
 - [Müzik Bot](https://t.me/SohbetMusicsBot) Telegram Müzik Bot .
 
 # Support 
-- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
+- [Destek] ( https://t.me/nevarevladim ) Telegram Destek Grubu .
 
 
 ### ⏳ Genel Komutlar
@@ -16,9 +16,9 @@
 - `/atla` - sonraki şarkıyı çal 
 - `/son` - müzik çalmayı durdurma
 - `/reload` - Yönetici listesini günceller. 
-- `/katil` - Müzik asistanı  grubunuza katılır. 
-- `/ayril` - Müzik asistanı grubunuzu terk eder. 
-- `/ver` - üyeler için extra yetki 
+- `/katil` - Müzik asistanı katılmauza katılır.
+- `/ayril` - Müzik asistanı grubunuzu terk eder.
+- `/ver` - üyeler için ekstra yetki
 - `/al` - üyeler için verilen yetki alınır (Herkes için olan komutları kullanır) 
 
 
